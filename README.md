@@ -4,7 +4,7 @@
 - 💻 Experiência em desenvolvimento front-end
 - 🔗 Experiência com manipulação de dados vindos de API
 
-##Projetos
+## Projetos
 - 👾 Desenvolvimento de games 2D através de Python
 - 🧯 Software de gestão de equipamentos de incêndio para o Metrô de São Paulo
 - 🌐 Site KAIRO: https://kairolicitacoes.com.br
