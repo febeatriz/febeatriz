@@ -27,4 +27,4 @@
 ## Contato
 - 📧 Email: [febiatx@gmail.com]
 - 🎓 Email institucional: [22.00368-0@maua.br]
-- 🔗 LinkedIn: [Fernanda Teixeira](https://www.linkedin.com/in/fernanda-teixeira-1b8328291/)
+- 🔗 LinkedIn: [Fernanda Teixeira](https://www.linkedin.com/in/fernandabeatrizteixeira)
