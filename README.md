@@ -1,12 +1,13 @@
 # Olá, eu sou a Fernanda👋
+🎓 Estudante de Ciência da Computação no Instituto Mauá de Tecnologia
+📚 Possuo interesse em desenvolvimento de softwares, tanto front-end quanto back-end e banco de dados (relacional ou não)
+💻 Experiência em desenvolvimento front-end
+🔗 Experiência com manipulação de dados vindos de API
 
-## Sobre mim
-- 🎓 Estudante de Ciência da Computação no Instituto Mauá de Tecnologia
-- 📚 Possuo interesse em desenvolvimento de softwares, tanto front-end quando back-end e banco de dados (relacional ou não)
-
-## Projetos
-- 👾 Desenvolvimento de games 2D através de python
-- 🧯 Softaware de gestão de equipamentos de incêndio para o metrô de São Paulo
+##Projetos
+👾 Desenvolvimento de games 2D através de Python
+🧯 Software de gestão de equipamentos de incêndio para o Metrô de São Paulo
+🌐 Site KAIRO: https://kairolicitacoes.com.br
 
 ## Tecnologias utilizadas
 <div style="display: inline_block">
