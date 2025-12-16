@@ -3,11 +3,13 @@
 - 📚 Possuo interesse em desenvolvimento de softwares, tanto front-end quanto back-end e banco de dados (relacional ou não)
 - 💻 Experiência em desenvolvimento front-end
 - 🔗 Experiência com manipulação de dados vindos de API
+- 🤖 Experiência com algoritmos de Machine Learning
 
 ## Projetos
-- 👾 Desenvolvimento de games 2D através de Python
-- 🧯 Software de gestão de equipamentos de incêndio para o Metrô de São Paulo
-- 🌐 Site KAIRO: https://kairolicitacoes.com.br
+- **👾 Jogos 2D em Python:** Desenvolvimento de jogos utilizando lógica de programação.
+- **🚇 Gestão para o Metrô de SP:** Software de gestão de equipamentos de incêndio para o Metrô de São Paulo.
+- **🧠 Classificação de Imagens:** Modelo de Deep Learning (CNN) treinado no dataset CIFAR-10 para reconhecimento de objetos.
+- **🌐 [KAIRO](https://kairolicitacoes.com.br):** Desenvolvimento web para a plataforma Kairo Licitações.
 
 ## Tecnologias utilizadas
 <div style="display: inline_block">
